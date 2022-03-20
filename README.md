@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @basic-ctrl
-- 👀 I’m interested in web development!
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on anyone working on the Odin Project
+- 👋 Hi, I’m @basic-ctrl - robyn!
+- 🌱 I’m currently learning Python and C#
 - 📫 You can contact via robyn#9675 on discord
 
 <!---
