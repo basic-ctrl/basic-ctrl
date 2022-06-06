@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @basic-ctrl - robyn!
-- 🌱 I’m currently learning Python and C#
+- 🌱 I’m currently learning web dev via the Odin Project
 - 📫 You can contact via robyn#9675 on discord
 
 <!---
